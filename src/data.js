@@ -54,7 +54,7 @@ function chillHop() {
             cover: "https://manuappshome.files.wordpress.com/2019/09/rock-fm.png",
             id: uuidv4(),
             color: ["#845648","#FDFBDF"],
-            audio: "http://flucast-b05-03.flumotion.com/cope/rockfm-low.mp3",
+            audio: "https://flucast-b04-04.flumotion.com/cope/rockfm.mp3",
             active: false,
         },
         {
@@ -90,7 +90,7 @@ function chillHop() {
             cover: "https://manuappshome.files.wordpress.com/2019/09/89-fm-a-rc3a1dio-rock.png",
             id: uuidv4(),
             color: ["#FDE1A9", "#A46874"],
-            audio: "https://24073.live.streamtheworld.com/RADIO_89FM_ADP_SC?dist=site-89fm",
+            audio: "https://26593.live.streamtheworld.com/RADIO_89FMAAC.aac",
             active: false,
         },
         {
@@ -360,7 +360,7 @@ function chillHop() {
             cover: "https://manuappshome.files.wordpress.com/2021/10/radio-rock-cuzco-peru.jpg",
             id: uuidv4(),
             color: ["#008781", "#cfc08c"],
-            audio: "http://172.104.217.55:9300/;",
+            audio: "https://stream-21.zeno.fm/16ardrv3feruv",
             active: false,
         },
          {
@@ -468,7 +468,7 @@ function chillHop() {
             cover: "https://manuappshome.files.wordpress.com/2020/02/the-beach-93.5.png",
             id: uuidv4(),
             color: ["#008781", "#cfc08c"],
-            audio: "https://prod-34-145-78-84.wostreaming.net/adamsradio-wzbhfmmp3-ibc1",
+            audio: "https://prod-54-81-231-255.wostreaming.net/wboc-wzbhfmaac-ibc2",
             active: false,
         },
         {
@@ -478,15 +478,6 @@ function chillHop() {
             id: uuidv4(),
             color: ["#008781", "#cfc08c"],
             audio: "http://dieneue1077.cast.addradio.de/dieneue1077/simulcast/high/stream.mp3",
-            active: false,
-        },
-        {
-            name:"ALLZIC GOTHIQUE",
-            artist: "Rock",
-            cover: "https://manuappshome.files.wordpress.com/2019/09/allzic-gothique-gc3b3tico-rock.png",
-            id: uuidv4(),
-            color: ["#008781", "#cfc08c"],
-            audio: "http://allzic27.ice.infomaniak.ch/allzic27.mp3",
             active: false,
         },
         {
@@ -697,15 +688,6 @@ function chillHop() {
             active: false,
         },
          {
-            name:"Absolute Radio Classic",
-            artist: "Rock",
-            cover: "https://manuappshome.files.wordpress.com/2019/09/absolute-radio-classic-rock-rock-clc3a1sico-rock.png",
-            id: uuidv4(),
-            color: ["#008781", "#cfc08c"],
-            audio: "https://stream-ar.planetradio.co.uk/absoluteclassicrockhigh.aac",
-            active: false,
-        },
-         {
             name:"101 Pink Floid",
             artist: "Rock",
             cover: "https://manuappshome.files.wordpress.com/2019/09/101-ru-country-country.png",
@@ -729,7 +711,7 @@ function chillHop() {
             cover: "https://manuappshome.files.wordpress.com/2019/09/nostalgia-fm-pop-rock1.png",
             id: uuidv4(),
             color: ["#008781", "#cfc08c"],
-            audio: "https://server.spainbroadcast.net:10985/;",
+            audio: "https://azura.abcorp.es/radio/8040/live",
             active: false,
         },
          {
@@ -756,7 +738,7 @@ function chillHop() {
             cover: "https://manuappshome.files.wordpress.com/2019/09/blues-rock-cafe.png",
             id: uuidv4(),
             color: ["#008781", "#cfc08c"],
-            audio: "https://node-23.zeno.fm/6vdd2txd41zuv",
+            audio: "https://stream-46.zeno.fm/en8yvtxd41zuv",
             active: false,
         },
          {
@@ -774,7 +756,7 @@ function chillHop() {
             cover: "https://manuappshome.files.wordpress.com/2019/09/88-6-rock-rock-hard-rock.png",
             id: uuidv4(),
             color: ["#008781", "#cfc08c"],
-            audio: "https://radio886.fluidstream.eu/886_live.mp3",
+            audio: "https://edge59.streamonkey.net/radio886-classicrock/stream/mp3",
             active: false,
         },
     ];
