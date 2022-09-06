@@ -5,7 +5,7 @@ function chillHop() {
 
         {
             name:"Radio Rock On EEUU",
-            artist: "Rock",
+            artist: "",
             cover: "https://manuappshome.files.wordpress.com/2022/05/radio-rock-on.png",
             id: uuidv4(),
             color: ["#F24933", "#F9B437"],
